@@ -1,4 +1,4 @@
-### Hi there, I'm Angus 👋
+### 👋 Hi there, I'm Angus 
 
 I'm a DevOps Engineer on KPMG's Platform Engineering team.
 
