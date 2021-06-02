@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer on KPMG's Platform Engineering team.
 
-🔭 I’m currently working on migrating our Source Code Management system from Bitbucket Server to GitHub, along with making our GitHub user experience as brilliant as possible
+I’m currently working on migrating our Source Code Management system from Bitbucket Server to GitHub, along with making our GitHub user experience as brilliant as possible
 
 <!--
 **angusjellis/angusjellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
