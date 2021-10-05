@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer on KPMG's Platform Engineering team.
 
-I’m currently working on migrating our Source Code Management system from Bitbucket Server to GitHub, along with making our GitHub user experience as brilliant as possible.
+I lead a small squad of engineers building out our GitHub-based platform, enabling innersourcing & developer self-service.
 
 I'm interested in Kubernetes, Python, Node.js, etc...
 
