@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Angus 
 
-I'm an Engineer on KPMG's Developer Platform team.
+I'm an engineer on KPMG's Developer Platform team.
 
 I lead a small squad of engineers building out our GitHub-based platform, enabling innersourcing & developer self-service.
 
