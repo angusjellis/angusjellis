@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Angus 
 
-I'm a DevOps Engineer on KPMG's Platform Engineering team.
+I'm an Engineer on KPMG's Developer Platform team.
 
 I lead a small squad of engineers building out our GitHub-based platform, enabling innersourcing & developer self-service.
 
-I'm interested in Kubernetes, Python, Node.js, etc...
+I'm interested in Kubernetes, Python, Golang, Hashicorp Vault, etc...
 
 <!--
 **angusjellis/angusjellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
