@@ -6,7 +6,11 @@ I lead a small squad of engineers building out our GitHub-based platform, enabli
 
 I'm interested in Kubernetes, Python, Golang, Hashicorp Vault, etc...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=115665173&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+## Spotify Playing 🎧
+
+[<img src="https://spotify-playing.beomus.vercel.app/api/spotify" alt="Angus' Now Playing" width="450" />](https://open.spotify.com/user/115665173?si=5369cab56f804282)
+
+
 
 <!--
 **angusjellis/angusjellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
