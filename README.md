@@ -8,7 +8,7 @@ I'm interested in Kubernetes, Python, Golang, Hashicorp Vault, etc...
 
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-playing.beomus.vercel.app/api/spotify" alt="Angus' Now Playing" width="450" />](https://open.spotify.com/user/115665173?si=5369cab56f804282)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=115665173&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
