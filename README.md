@@ -1,8 +1,5 @@
 ### 👋 Hi there, I'm Angus 
 
-I lead KPMG's Developer Platform (Code & CI/CD) team.
-
-We build and maintain KPMG's GitHub-based platform, enabling innersourcing & developer self-service, and enabling flow.
 
 I'm interested in the systems and economics of large scale software engineering organisations, with a particular focus of mine being removing the blockers to doing great work, and am currently learning about the fundamentals of lower-level computer science, while also expanding my ability to think in systems.
 
